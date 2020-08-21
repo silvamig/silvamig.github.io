@@ -93,16 +93,7 @@ li{
     background: linear-gradient(90deg, rgba(3,83,164,1) 0%, rgba(250,174,123,1) 23%, rgba(222,226,255,1) 30%, rgba(35,25,66,1) 100%);
  } 
 
- /* .skills__title{
-    margin: 50%;
-    text-align: center;
-    font-family: Quicksand, "sans serif";
-    font-weight: 1000;
-    font-size: xx-large;
-    margin:1%;
- } */
-
- .about{
+  .about{
      display: flex;
      flex-direction: row;
      justify-content: center;
@@ -151,11 +142,7 @@ img{
     justify-content: center;
     align-self: center;
     margin-top: 3em;
-    margin-bottom: 7em; 
+    margin-bottom: 9em; 
     border-image-width: auto;
-   
-
-
-
 }
  

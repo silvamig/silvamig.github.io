@@ -111,7 +111,8 @@ li{
      font-family: Quicksand, "sans serif";
      font-weight: 1000;
      font-size: x-large;
-     margin: 11%;    
+     padding-top: 1em;
+     margin: 10%;    
  }
 
  .skills{
@@ -135,7 +136,8 @@ li{
 
 img{
     max-width: 500px;
-    max-height: 350px
+    max-height: 350px;
+    padding: 1em;
 }
 .project__list{
     display:flex;
